@@ -5,7 +5,7 @@
 # Feel free to contribute to this code on https://github.com/itsmepvr/anki-find-and-replace-in-templates
 
 from aqt.qt import *
-from aqt.utils import showInfo
+from aqt.utils import showInfo, askUser
 from aqt import mw
 from anki.hooks import addHook
 from PyQt5 import QtCore, QtGui, QtWidgets
