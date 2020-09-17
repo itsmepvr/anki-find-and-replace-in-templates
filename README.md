@@ -15,7 +15,7 @@
 <img src='./screenshot/screenshot.png' style='width:100px;height:100px' />
 
 To download and install the addon [visit here](https://ankiweb.net/shared/info/1732661953).
-
+****
 Works with Anki >= v2.1.20
 
 ------
