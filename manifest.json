@@ -1,0 +1,9 @@
+{
+  "name": "Find and Replace in Templates",
+  "package": "anki-find-and-replace-in-templates",
+  "ankiweb_id": "",
+  "author": "Venkata Ramana P",
+  "version": "v0.0.1",
+  "homepage": "https://github.com/itsmepvr/anki-find-and-replace-in-templates",
+  "conflicts": []
+}
