@@ -86,8 +86,8 @@ class FindAndReplaceInTemplates_Dialog(object):
         self.label_3.setText(_translate("Form", "Select Notetype :"))
         self.pushButton.setText(_translate("Form", "Find and Replace"))
         self.pushButton_2.setText(_translate("Form", "Cancel"))
-        self.checkBox.setText(_translate("Form", "Question"))
-        self.checkBox_2.setText(_translate("Form", "Answer"))
+        self.checkBox.setText(_translate("Form", "Front"))
+        self.checkBox_2.setText(_translate("Form", "Back"))
         self.checkBox_3.setText(_translate("Form", "CSS"))
 
     def findAndReplace(self):
